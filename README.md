@@ -1,2 +1,0 @@
-# Luciuszs.github.io
-AxiomOS
